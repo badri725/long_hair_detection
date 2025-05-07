@@ -1,5 +1,5 @@
 ## Long Hair Detection
-Detecting size of the hair range between 20 and 30 if male with long hair predicted as female and female with short hair predicted as male
+Detecting size of the hair range between 20 and 30 if male with long hair predicted as female and female with short hair predicted as  a male
 ## To run the model
 1. clone this repository
 2. Run the [GUI.py](https://github.com/Vasantharish/long_hair_detection/blob/0cf884b0b2e2ab7158fc84c836d502351e0824e4/GUI.py)file
